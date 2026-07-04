@@ -71,10 +71,10 @@ Run npm start to launch the app locally.
 
 ______________________________________________________________________________________________________________________________
 
-License
+License    
 ISC
 
 
-Author
+Author    
 Ayush Aditya
 
