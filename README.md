@@ -50,24 +50,24 @@ Project Structure
 How It Works
 
 
-The user pastes an email into the input field.
-The email text is sent to the Gemini 2.5 Flash model with a structured prompt.
-The model returns a JSON object containing:
-    - Read only (true/false)
-    - Files required in response (true/false)
-    - Summary (text)
-The result is displayed to the user in a read-only result box.
+The user pastes an email into the input field.    
+The email text is sent to the Gemini 2.5 Flash model with a structured prompt.    
+The model returns a JSON object containing:    
+    - Read only (true/false)    
+    - Files required in response (true/false)    
+    - Summary (text)    
+The result is displayed to the user in a read-only result box.    
 
 
 
 Getting Started
 
 
-Clone the repository.
-Run npm install to install frontend dependencies.
-Run pip install -r requirements.txt to install backend dependencies.
-Add your Gemini API key as an environment variable.
-Run npm start to launch the app locally.
+Clone the repository.    
+Run npm install to install frontend dependencies.    
+Run pip install -r requirements.txt to install backend dependencies.    
+Add your Gemini API key as an environment variable.    
+Run npm start to launch the app locally.    
 
 
 
