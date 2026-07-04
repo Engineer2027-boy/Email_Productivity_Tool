@@ -33,17 +33,18 @@ Project Structure
 
 
 ├── src/
-            ├── App.js # Main React component
-            ├── App.css # App styling
-            ├── App.test.js # App tests
-            ├── index.js # React entry point
-            ├── index.css # Global styling
-            ├── reportWebVitals.js # Performance reporting
-            ├── setupTests.js # Test setup
-            └── logo.svg # App logo
-├── backend.py # Python backend / Gemini integration
-├── requirements.txt # Python dependencies
-├── README.md # (this file)
+            ├── App.js # Main React component    
+            ├── App.css # App styling    
+            ├── App.test.js # App tests    
+            ├── index.js # React entry point    
+            ├── index.css # Global styling    
+            ├── reportWebVitals.js # Performance reporting    
+            ├── setupTests.js # Test setup    
+            └── logo.svg # App logo    
+├── backend.py # Python backend / Gemini integration    
+├── requirements.txt # Python dependencies    
+├── README.md # (this file)    
+
 
 
 How It Works
