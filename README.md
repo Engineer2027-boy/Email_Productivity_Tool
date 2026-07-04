@@ -5,11 +5,11 @@ A web app built with React and Python that summarizes emails using the Gemini AP
 Features
 
 
-Paste any email into a text field and get an instant summary.
-Automatically classifies the email as read-only or requiring a response.
-Flags whether a response is likely to need a file attachment.
-Summarizes the email to roughly 20–50% of its original length while preserving the core message.
-Clean, minimal interface built with React.
+Paste any email into a text field and get an instant summary.    
+Automatically classifies the email as read-only or requiring a response.    
+Flags whether a response is likely to need a file attachment.    
+Summarizes the email to roughly 20–50% of its original length while preserving the core message.    
+Clean, minimal interface built with React.    
 
 
 
