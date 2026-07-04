@@ -1,7 +1,7 @@
 Email Productivity Tool
 A web app built with React and Python that summarizes emails using the Gemini API. It classifies whether an email is read-only or needs a response, flags if a file attachment is likely required, and generates a concise summary of the original message.
 
-
+________________________________________________________________________________________________________________________
 Features
 
 
@@ -11,7 +11,7 @@ Flags whether a response is likely to need a file attachment.
 Summarizes the email to roughly 20–50% of its original length while preserving the core message.    
 Clean, minimal interface built with React.    
 
-
+_________________________________________________________________________________________________________________________
 
 Tech Stack
 
@@ -21,13 +21,13 @@ Backend logic - Python
 AI Model - Gemini 2.5 Flash
 
 
-
+__________________________________________________________________________________________________________________________
 Environment Variables
 
 
 GEMINI_API_KEY for authenticating requests to the Gemini API.
 
-
+_________________________________________________________________________________________________________________________
 
 Project Structure
 
@@ -46,7 +46,7 @@ Project Structure
 ├── README.md # (this file)    
 
 
-
+_____________________________________________________________________________________________________________________________
 How It Works
 
 
@@ -59,7 +59,7 @@ The model returns a JSON object containing:
 The result is displayed to the user in a read-only result box.    
 
 
-
+______________________________________________________________________________________________________________________________
 Getting Started
 
 
@@ -69,7 +69,7 @@ Run pip install -r requirements.txt to install backend dependencies.
 Add your Gemini API key as an environment variable.    
 Run npm start to launch the app locally.    
 
-
+______________________________________________________________________________________________________________________________
 
 License
 ISC
